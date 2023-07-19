@@ -2,6 +2,20 @@
 
 My attempt to learn and provide examples of Modern CMake
 
+## What is CMake?
+
+CMake, in short, is a tool that helps you build your project. It "makes" your "makefile."
+
+A makefile is a file that contains instructions on how to build your project. It is used by the `make` command to build your project.
+
+An example of a makefile:
+
+```makefile
+
+```
+
+Great [Makefile Tutorial](https://makefiletutorial.com/)
+
 ## Author
 
 Jeremy Tubongbanua
